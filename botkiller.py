@@ -102,3 +102,4 @@ log_entry("\n======================= START =======================")
 scan_and_display()
 
 window.mainloop()
+
