@@ -1,6 +1,5 @@
 # 🛡️ BotKiller v0.2 – Grzelo Medialny Edition
 
-
 Program do monitorowania połączeń sieciowych i blokowania podejrzanych adresów IP w systemie Windows.
 
 ## 🔧 Funkcje
@@ -18,13 +17,4 @@ Instalacja zależności (jeśli potrzeba):
 
 ```bash
 pip install psutil requests
-
-
-
-
-
-
-
-
-
 
