@@ -103,4 +103,3 @@ scan_and_display()
 
 window.mainloop()
 
-
