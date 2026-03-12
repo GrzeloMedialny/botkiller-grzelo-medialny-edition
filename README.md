@@ -19,3 +19,9 @@ Instalacja zależności (jeśli potrzeba):
 pip install psutil requests
 
 
+
+
+
+
+
+
