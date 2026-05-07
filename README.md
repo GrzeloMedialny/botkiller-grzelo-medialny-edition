@@ -33,6 +33,3 @@ pip install psutil requests
 
 
 
-
-
-
