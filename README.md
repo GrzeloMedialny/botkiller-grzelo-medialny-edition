@@ -25,7 +25,3 @@ pip install psutil requests
 
 
 
-
-
-
-
