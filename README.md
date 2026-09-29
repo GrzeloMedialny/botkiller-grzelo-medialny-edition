@@ -23,3 +23,7 @@ pip install psutil requests
 Instalacja zależności (jeśli potrzeba):
 
 ```bash
+-------------------
+Instalacja zależności (jeśli potrzeba):
+
+```bash
