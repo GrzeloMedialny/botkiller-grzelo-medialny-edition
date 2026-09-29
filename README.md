@@ -17,3 +17,9 @@ Instalacja zależności (jeśli potrzeba):
 
 ```bash
 pip install psutil requests
+
+
+-------------------
+Instalacja zależności (jeśli potrzeba):
+
+```bash
