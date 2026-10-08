@@ -19,5 +19,4 @@ Instalacja zależności (jeśli potrzeba):
 pip install psutil requests
 
 
--------------------
--------------------
+s rgv rg areg aertg aerg aerg a
