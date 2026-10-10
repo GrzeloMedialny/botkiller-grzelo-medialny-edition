@@ -17,12 +17,3 @@ Instalacja zależności (jeśli potrzeba):
 
 ```bash
 pip install psutil requests
-
-
-s rgv rg areg aertg aerg aerg a
-adsf ef wEF wef wef WEF WEF WF 
- FWE FWEF WERF WREF WERF WREF W 
-D QEWDF WQE WEF WEF WERF WER FW 
-fg rt g24 g245 245 
-trg 345g 4325t 245t 245 t3245t 245t 254 
-t gwtg t t 34t g34 g45 g45 g
