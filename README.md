@@ -18,3 +18,10 @@ Instalacja zależności (jeśli potrzeba):
 ```bash
 pip install psutil requests
 
+---------------
+eg w4tgw4tvg wrtb wrtb wrtbv w4rtbgv w4tgb w4tg w4tg w4tg w4t
+w4 tgw
+4tg w
+t g
+wret gw tgwretg wr4tg wrtgh
+wr4 tgwr tgw4rtg wrtg wrtg wrtg wrt
