@@ -17,25 +17,3 @@ Instalacja zależności (jeśli potrzeba):
 
 ```bash
 pip install psutil requests
-
----------------
-eg w4tgw4tvg wrtb wrtb wrtbv w4rtbgv w4tgb w4tg w4tg w4tg w4t
-w4 tgw 6u j67j 67j 67j 467j 467j 4657uj 647j 67 5y34 tttttttt
-4tg wuj 456u j6j 467j 467jh 467ju 467j 647j 56hg 34  tttttttt
-t gnr u6 r6uj 546uj 46u7j 5467j 5467j 67j 68j 67j  5 tttttttt
-wret gw tgwretg wr4tg wrtgh ryh 5h 456h 456h 456h 54 tttttt t
-wr4 tgwr tgw4rtg wrtg wrtg wrtg wrt g 345g 345g 345g tttttttt
-5yh  545h45h 45yh 45yh 45yh 45h45yh 4tyh 45yh y 55555 ttttttt
-5yh 45yh 45th 45h 45h 456h 456h 456h 45h 4657h 465555 ttttttt
-yhj 456h 456h 4567h 45h 45h 45yh 456h 456h 456h 456h tttttttt
-465y 3 35gh 346g 346g 346tg 34g 345g 345g 345g 345g 345 ttttt
-46 6 3456gh 3456g 346g 3456g 345g 345g 345g 345g 4356g tttttt
-545t45g34g425g34g34g 432g 245g 3245g4325tg 345g 3425g 345g 45
-5 45g435g 345g 4325g45g 34g 345g345gtg345g 3456 345gt 3465ggg
-5432t435t34 534t5 345t 345gt 345 345gt 34tg 34g 34g 34 3456 6
-465 346g 34256g 34g 345gt 3456gt 34g t3456 3465tyg34 3456 g34 
-465 465 346g 346g 346g34g456 346g 3465g 346g 346g 3465g 34655
-6 356356h356h 356h 356h 356h 536h 356h 356 356 356 3546 y6546
-6y536y 356h 356hy 356h 536h356h356h 536h 56h 356h 356h 56 666
-6 3456yh 356y 356h536h356yh 536h 5hnyht4h54 h534 534h 5hhhhhh
-56y356y 56h 3546h 3456h 356h 356h 3546h 3456h 356h 56 6666666
