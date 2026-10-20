@@ -22,6 +22,6 @@ pip install psutil requests
 eg w4tgw4tvg wrtb wrtb wrtbv w4rtbgv w4tgb w4tg w4tg w4tg w4t
 w4 tgw
 4tg w
-t g
+t gnr u6 r6uj 546uj 46u7j 5467j 5467j 67j 68j 67j 
 wret gw tgwretg wr4tg wrtgh
 wr4 tgwr tgw4rtg wrtg wrtg wrtg wrt
