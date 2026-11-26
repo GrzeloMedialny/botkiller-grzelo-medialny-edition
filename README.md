@@ -18,4 +18,4 @@ Instalacja zależności (jeśli potrzeba):
 ```bash
 pip install psutil requests
 
-g45g345g456g4g345g4g 4545 4y44hg44 2 46 42646 346y 46y 
+g45g345g456g4g345g4g 4545 4y44hg44 2 46 42646 346y 46y  4y44 24 4 2424 4 4 45 4 
